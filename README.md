@@ -35,6 +35,7 @@ Here are some ideas to get you started:
   
   <a href="https://www.instagram.com/0903____________/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> 
   <a href="https://www.facebook.com/profile.php?id=100005054852913" target="_blank"><img    src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
+  <a href="mailto:tkdwls891@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=tkdwls891@naver.com"/></a>
   
   <br>
   
@@ -43,7 +44,7 @@ Here are some ideas to get you started:
   
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Java-ffb13b?style=flat-square&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/C&23-239120?style=flat-square&logo=C Sharp&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C Sharp&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
