@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-  # 💻BaekJun Rank💻 
+  # 💻BaekJun Rank💻
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pilo37)](https://solved.ac/pilo37/)
   
 </div>
