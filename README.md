@@ -1,7 +1,5 @@
-### Hi there 👋
-
 <!--
-**OneCosy/OneCosy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**pilo6044/pilo6044** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +12,55 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![header](https://capsule-render.vercel.app/api?type=soft&color=eafdb4&text=Nice%20to%20meet%20you!&animation=blink&height=150&section=header&fontSize=70&fontColor=c1ccfa)
+<div align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpilo6044%2Fhit-counter&count_bg=%23C1CCFA&title_bg=%236F706D&icon=github.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=false"/></a>
+</div>
+
+#
+
+<div align="center">
+  
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pilo6044&show_icons=true&theme=vue)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pilo6044&layout=compact&theme=vue)
+  
+</div>
+
+<br>
+
+<div align="center"> 
+  
+  # 🍀Contacts🍀
+  
+  <a href="https://www.instagram.com/0903____________/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> 
+  <a href="https://www.facebook.com/profile.php?id=100005054852913" target="_blank"><img    src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
+  
+  <br>
+  
+  # 📚Skills📚
+  ### Platforms & Languages
+  
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Java-ffb13b?style=flat-square&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C Sharp&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=Kali MySQL&logoColor=white"/></a>
+  
+  ### Tools
+  <img src="https://img.shields.io/badge/VISUAL STUDIO-5C2D91?style=flat-square&logo=VISUAL STUDIO&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/ANDROID STUDIO-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/ECLIPSE IDE-2C2255?style=flat-square&logo=ECLIPSE IDE&logoColor=white"/></a>
+</div>
+
+<br>
+
+<div align="center">
+  
+  # 💻BaekJun Rank💻 
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pilo37)](https://solved.ac/pilo37/)
+  
+</div>
