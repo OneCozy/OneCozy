@@ -43,12 +43,12 @@ Here are some ideas to get you started:
   
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Java-ffb13b?style=flat-square&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C Sharp&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/C&23-239120?style=flat-square&logo=C Sharp&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=Kali MySQL&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/MySQL-E6B91E?style=flat-square&logo=Kali MySQL&logoColor=white"/></a>
   
   ### Tools
   <img src="https://img.shields.io/badge/VISUAL STUDIO-5C2D91?style=flat-square&logo=VISUAL STUDIO&logoColor=white"/></a>
