@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=soft&color=eafdb4&text=OneCosy&animation=blink&height=150&section=header&fontSize=70&fontColor=c1ccfa)
+![header](https://capsule-render.vercel.app/api?type=soft&color=eafdb4&text=OneCozy&animation=blink&height=150&section=header&fontSize=70&fontColor=c1ccfa)
 <div align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpilo6044%2Fhit-counter&count_bg=%23C1CCFA&title_bg=%236F706D&icon=github.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=false"/></a>
 </div>
