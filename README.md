@@ -41,7 +41,7 @@ Here are some ideas to get you started:
   # 📚Skills📚
   ### Platforms & Languages
   
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white"/>
+  <a href="#"><img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=OpenJDK&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=plastic&logo=C Sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=HTML5&logoColor=white"/>
