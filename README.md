@@ -42,25 +42,25 @@ Here are some ideas to get you started:
   ### Platforms & Languages
   
   <a href="#"><img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=OpenJDK&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=plastic&logo=C Sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=plastic&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=Android&logoColor=white"/>
+  <a href="#"><img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=OpenJDK&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/C%23-239120?style=plastic&logo=C Sharp&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=HTML5&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/CSS-1572B6?style=plastic&logo=CSS3&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=Android&logoColor=white"/></a>
   <br>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=plastic&logo=MySql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JS-F7DF1E?style=plastic&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=plastic&logo=SpringBoot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white"/>
+  <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Mysql-E6B91E?style=plastic&logo=MySql&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/JS-F7DF1E?style=plastic&logo=JavaScript&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=plastic&logo=SpringBoot&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white"/></a>
   
   
   ### Tools
-  <img src="https://img.shields.io/badge/VISUAL STUDIO-5C2D91?style=plastic&logo=VISUAL STUDIO&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ANDROID STUDIO-3DDC84?style=plastic&logo=Android Studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ECLIPSE IDE-2C2255?style=plastic&logo=ECLIPSE IDE&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=plastic&logo=IntelliJIDEA&logoColor=white"/>
+  <a href="#"><img src="https://img.shields.io/badge/VISUAL STUDIO-5C2D91?style=plastic&logo=VISUAL STUDIO&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/ANDROID STUDIO-3DDC84?style=plastic&logo=Android Studio&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/ECLIPSE IDE-2C2255?style=plastic&logo=ECLIPSE IDE&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=plastic&logo=IntelliJIDEA&logoColor=white"/></a>
 </div>
 
 <br>
