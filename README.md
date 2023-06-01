@@ -49,18 +49,18 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=Android&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=plastic&logo=MySql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JS-F7DF1E?style=plastic&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=plastic&logo=SpringBoot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white"/>
   
   
   ### Tools
-  <img src="https://img.shields.io/badge/VISUAL STUDIO-5C2D91?style=flat-square&logo=VISUAL STUDIO&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ANDROID STUDIO-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ECLIPSE IDE-2C2255?style=flat-square&logo=ECLIPSE IDE&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VISUAL STUDIO-5C2D91?style=plastic&logo=VISUAL STUDIO&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ANDROID STUDIO-3DDC84?style=plastic&logo=Android Studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ECLIPSE IDE-2C2255?style=plastic&logo=ECLIPSE IDE&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=plastic&logo=IntelliJIDEA&logoColor=white"/>
 </div>
 
 <br>
