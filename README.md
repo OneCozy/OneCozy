@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   ### Platforms & Languages
   
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ffb13b?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ffb13b?style=flat-square&logo=JavaColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C Sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
