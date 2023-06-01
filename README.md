@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/0903____________/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white"/></a> 
   <a href="https://www.facebook.com/profile.php?id=100005054852913" target="_blank"><img    src="https://img.shields.io/badge/Facebook-1877F2?style=plastic&logo=Facebook&logoColor=white"/></a>
   <a href="mailto:tkdwls891@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=plastic&logo=Gmail&logoColor=white&link=tkdwls891@naver.com"/></a>
-  <br>
+  <br><br>
   
   # 📚Skills📚
   ### Platforms & Languages
