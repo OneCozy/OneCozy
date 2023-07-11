@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=OneCosy&show_icons=true&theme=vue)  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OneCosy&layout=compact&theme=vue)
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=OneCozy&show_icons=true&theme=vue)  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OneCozy&layout=compact&theme=vue)
   
 </div>
 
